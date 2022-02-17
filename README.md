@@ -2,16 +2,18 @@
 <p style="font-size: 20px">Seja bem vindo (a)! Me chamo Luiz Henrique e atualmente estou estudando desenvolvimento front-end. :]</p>
 
 <div align="center">
-  <a href="https://github.com/luizhf42">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizhf42&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizhf42&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-##
-  
-<div style="display: inline_block" align="center"><br>
-  <h2 align="center">Skills</h2>
-  <img align="center" alt="javacript" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="html" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+<h2>Skills</h2>  
+<ul align="left"> 
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>SCSS</li>
+  <li>JavaScript</li>
+</ul>
+
+<h2>Redes</h2>
+<a href="https://www.linkedin.com/in/luiz-henrique-felix"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /></a>
+<a href="https://www.instagram.com/luizhf42/"><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' /></a>
