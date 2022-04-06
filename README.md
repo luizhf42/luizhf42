@@ -12,6 +12,7 @@
   <li>CSS3</li>
   <li>SCSS</li>
   <li>JavaScript</li>
+  <li>Vue.js</li>
 </ul>
 
 <h2>Redes</h2>
