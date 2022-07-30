@@ -1,4 +1,4 @@
-<h1 align="left">Hello, World! 🐢</h1>
+<h1 align="left">Hello, World!</h1>
 
 ###
 <h3 align="left">My name is Luiz Henrique and I'm a front-end developer.</h3>
