@@ -1,7 +1,9 @@
-<h1 align="left">Hello, World!</h1>
+<h1>Hello, World!</h1>
 
 ###
-<h3 align="left">My name is Luiz Henrique and I'm a web developer.</h3>
+<h3> I'm Luiz Henrique, a Brazilian front-end developer.</h3>
+<p>I create accessible, responsive, and beautiful websites, always delivering clean and maintainable code. I'm a programming enthusiast, always disposed to learn anything.</p>
+<p>I'm looking for a front-end job position right now. Maybe you want to <strong>hire me?</strong> ;]</p>
 
 ###
 <div align="center">
