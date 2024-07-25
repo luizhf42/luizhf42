@@ -3,7 +3,7 @@
 ###
 <h3> I'm Luiz Henrique, a Brazilian front-end developer.</h3>
 <p>I create accessible, responsive, and beautiful websites, always delivering clean and maintainable code. I'm a programming enthusiast, always disposed to learn anything.</p>
-<p>I'm looking for a front-end job position right now. Maybe you want to <strong>hire me?</strong> ;]</p>
+<p>Looking for a front-end job position right now.</p>
 
 ###
 <div align="center">
