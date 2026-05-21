@@ -14,6 +14,7 @@
   <li>Rewrote <strong>3,000+ tests</strong> to improve reliability and maintainability of the frontend test suite</li>
   <li>Led the migration from <strong>Vuex to Pinia</strong>, modernizing the state management layer across the entire application</li>
   <li>Implemented an <strong>Asciinema player</strong> for in-browser playback of recorded terminal sessions</li>
+  <li>Helped in the UI migration from <strong>Vue to React</strong></li>
 </ul>
 <br>
 
